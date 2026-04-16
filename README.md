@@ -3,13 +3,10 @@ This project is a full-stack gym and fitness management web application built wi
 
 The platform allows users to:
 
-Register and manage their accounts
-
-Browse and book various fitness classes (HIIT, yoga, strength training, etc.)
-
-Purchase and manage gym memberships
-
-Track bookings and payment history
+1. Register and manage their accounts
+2. Browse and book various fitness classes (HIIT, yoga, strength training, etc.)
+3. Purchase and manage gym memberships
+4. Track bookings and payment history
 
 It also includes an admin dashboard for managing users, classes, and overall system activity.
 
